@@ -21,7 +21,8 @@ header{
     background-color:#962221;
 }
 
-#parade_img{float:left;}
+#parade_img{height:200px;width:200px;
+    float:left;}
 
 header > nav{margin-top:.5rem;
 width:100%;
@@ -38,7 +39,10 @@ width:calc(100%/4);display:inline;
 color:#ffffff;
 }
 
-#table_img{float:right;}
+#table_img{height:200px;
+ width:150px;
+ float:right;
+}
 
 
 main{margin:0 auto;
