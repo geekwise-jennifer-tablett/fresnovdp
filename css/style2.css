@@ -86,7 +86,15 @@ main{margin:0 auto;
     height:200px;
     width:calc(100%/2);
     box-sizing: border-box;
-    float: right;}
+    float: left;
+}
+
+#grandstand{margin:0 auto;
+    padding:5px;
+    height:200px;
+    width:calc(100%/2);
+    box-sizing: border-box;
+    float: right}
  
 
 footer{height:8rem;
