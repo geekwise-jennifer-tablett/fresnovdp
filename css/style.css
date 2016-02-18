@@ -21,6 +21,7 @@ header{
     background-color:#962221;
 }
 
+#parade_img{float:left;}
 
 header > nav{margin-top:.5rem;
 width:100%;
@@ -31,12 +32,24 @@ list-style:none;
 color:#ffffff;
 }
 
+header > nav > ul > li{margin:0 auto;
+padding:0;
+width:calc(100%/4);display:inline;
+color:#ffffff;
+}
+
+#table_img{float:right;}
+
 
 main{margin:0 auto;
     padding:0;
     height:100%;
     width:90%;
     background-color:#ffffff;
+}
+
+#flag_img{height:342px;width:950px;
+text-align:center;
 }
 
 p{
