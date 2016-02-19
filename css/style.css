@@ -63,16 +63,14 @@ padding:10px;
 display:inline;
 line-height: 15;
 }
-a{
-    color:#fff;
+
+a{ color:#fff;
     text-decoration: none;
-    
-}
+    }
+
 a:hover{
     text-decoration: underline;
 }
-
-
 
 main{margin:0 auto;
     padding:0;
@@ -98,20 +96,25 @@ text-align:center;
 
 #times{
     margin:0 auto;
+    padding:5px;
     border:50px;
     width:calc(100%/2);
     height: 200px;
     font-size: 15px;
+    box-sizing: border-box;
     float:left;
 }
 
 #info{
-    margin:0 auto;
+     margin:0 auto;
     padding:5px;
-    height:200px;
+    border:50px;
     width:calc(100%/2);
+    height: 200px;
+    font-size: 15px;
     box-sizing: border-box;
-    float: right;}
+    float:right;
+}
 
 
 footer{height:8rem;
@@ -124,7 +127,7 @@ footer{height:8rem;
 
 
     
-#navy{margin:0 auto;
+.branch{margin:0 auto;
     padding:20px;
     display:inline;
     line-height: 15;
@@ -134,56 +137,7 @@ footer{height:8rem;
      float:left;
  }
 
-#air{margin:0 auto;
-    padding:20px;
-    display:inline;
-    line-height: 15;
-    height:75px;
-     width:75px;
-     display:inline-block;
-     float:left;
- }
-
-#marine{margin:0 auto;
-    padding:20px;
-    display:inline;
-    line-height: 15;
-    height:75px;
-     width:75px;
-     display:inline-block;
-     float:left;
- }
-
-#army{margin:0 auto;
-    padding:20px;
-    display:inline;
-    line-height: 15;
-    height:75px;
-     width:75px;
-     display:inline-block;
-     float:left;
- }
-    
-#coast{margin:0 auto;
-    padding:20px;
-    display:inline;
-    line-height: 15;
-    height:75px;
-     width:75px;
-     display:inline-block;
-     float:left;
- }
    
-#gaurd{margin:0 auto;
-    padding:20px;
-    display:inline;
-    line-height: 15;
-    height:75px;
-     width:75px;
-     display:inline-block;
-     float:left;
- }
-    
 #facebook{margin:0 auto;
     padding:20px;
     display:inline;
@@ -192,6 +146,6 @@ footer{height:8rem;
      width:75px;
      display:inline-block;
      float:right;
- }
+    }
     
 
