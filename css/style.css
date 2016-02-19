@@ -149,3 +149,87 @@ footer{height:8rem;
     }
     
 
+/*parade_page*/
+
+
+#map{margin:0;
+    padding:10px;
+    height:200px;width:500px;
+    text-align:center;
+}
+
+#sec1{
+    margin:0 auto;
+    padding:10px;
+    height:300px;
+    width:100%;
+    box-sizing: border-box;
+    display: block;
+}
+
+#direction{  margin:0 auto;
+    padding:5px;
+    border:50px;
+    width:calc(100%/2);
+    height: 200px;
+    font-size: 15px;
+    box-sizing: border-box;
+        float:left;
+}
+
+
+/*press_release*/
+
+#main_pressrelease{
+   margin:0 auto;
+    padding:0;
+    border:0;
+    width:100%;
+    height:100%;
+    font-size:8px;
+    box-sizing: border-box; 
+}
+
+
+#sec_ash{
+    margin:0 auto;
+    padding:0;
+    border:0;
+    width:100%;
+    height:100%;
+    font-size: 15px;
+    box-sizing: border-box;
+    
+
+#img_ash{margin:30px;
+    padding:0px;
+    border:solid color:#555555; 
+    width:200px;
+    height:150;
+    font-size: 15px;
+    box-sizing: border-box;
+    float:left;
+    background-color:#962221;
+}
+
+#p_ash{margin:20;
+    padding:10px;
+    border:0px;
+    width:65%;
+    height: 100%;
+    font-size: 10px;
+    box-sizing: border-box;
+    float:right;
+    background-color:blueviolet;}
+
+
+#ksee{margin:0 auto;
+    padding:5px;
+    border:50px;
+    width:calc(100%/2);
+    height: 200px;
+    font-size: 15px;
+    box-sizing: border-box;
+    float:right
+}
+
