@@ -38,6 +38,7 @@ header{
 }
 
 
+
 header>nav{
     margin: 0 auto;
     padding: 0;
@@ -198,11 +199,10 @@ footer{height:8rem;
     width:100%;
     height:100%;
     font-size: 15px;
-    box-sizing: border-box;
-    
+    box-sizing: border-box;}
 
-#img_ash{margin:30px;
-    padding:0px;
+#img_ash{margin:20px;
+    padding:10px;
     border:solid color:#555555; 
     width:200px;
     height:150;
@@ -212,7 +212,7 @@ footer{height:8rem;
     background-color:#962221;
 }
 
-#p_ash{margin:20;
+/*#p_ash{margin:20;
     padding:10px;
     border:0px;
     width:65%;
@@ -223,7 +223,7 @@ footer{height:8rem;
     background-color:blueviolet;}
 
 
-#ksee{margin:0 auto;
+#posters{margin:0 auto;
     padding:5px;
     border:50px;
     width:calc(100%/2);
@@ -231,5 +231,5 @@ footer{height:8rem;
     font-size: 15px;
     box-sizing: border-box;
     float:right
-}
+}*/
 
