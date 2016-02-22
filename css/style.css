@@ -255,3 +255,99 @@ footer{height:8rem;
     float:right
 }*/
 
+
+/*about_us_page*/
+nav{
+    Margin:0 auto;
+    display:block;
+    width:100%;
+    height:100%;
+    text-align: center;
+    background-color: aqua;
+}
+
+nav > ul{margin:0;
+pading:0;
+display:inline-block;
+    }
+
+nav > ul > li{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    
+}
+.sponsers{margin:0 auto;
+  padding:0px;
+  display:block;
+  
+}
+#sponser_table{
+    margin:0 auto;
+    padding:0;
+    height:110px; 
+    width:90px;
+    float:left;
+}
+
+#sponser_credit{ 
+    margin:0 auto;
+    padding:0;
+    height:100px; 
+    width:200px;
+    float:left;
+    
+}
+
+#sponser_carwash{
+    margin:0 auto;
+    padding:0;
+    height:80px; 
+    width:80px;
+    float:left;
+    
+}
+
+#sponser_pelco{
+    margin:0 auto;
+    padding:0;
+    height:100px; 
+    width:200px;
+    float:left;
+}
+
+#sponser_insurence{
+    margin:0 auto;
+    padding:0;
+    height:100px; float:left;
+    width:200px;
+    float:left;
+}
+#sponser_eyeq{
+    margin:0 auto;
+    padding:0;
+    float:left;
+    
+}
+
+#sponser_pge{
+    margin:0 auto;
+    padding:0;
+    height:80px;
+    width:80px;
+    float:left;
+    
+}
+
+#sponser_fresno{
+    margin:0 auto;
+    padding:0;
+     height:80px;
+    width:80px;
+   float:right;
+}
+
+
+
+
+
