@@ -208,53 +208,32 @@ footer{height:8rem;
     padding:0;
     border:0;
     width:100%;
-    height:100%;
+    height:50rem;
     font-size:8px;
     box-sizing: border-box; 
 }
 
-
-#sec_ash{
+#sec_posters{
     margin:0 auto;
     padding:0;
     border:0;
     width:100%;
-    height:100%;
-    font-size: 15px;
-    box-sizing: border-box;}
-
-#img_ash{margin:20px;
-    padding:10px;
-    border:solid color:#555555; 
-    width:200px;
-    height:150;
-    font-size: 15px;
+    height:20rem;
+    font-size:8px;
     box-sizing: border-box;
-    float:left;
-    background-color:#962221;
+    background-color:#686964;
 }
 
-/*#p_ash{margin:20;
-    padding:10px;
-    border:0px;
-    width:65%;
-    height: 100%;
-    font-size: 10px;
-    box-sizing: border-box;
-    float:right;
-    background-color:blueviolet;}
+nav > ul{margin:0;
+padding:0;
+    }
 
-
-#posters{margin:0 auto;
-    padding:5px;
-    border:50px;
-    width:calc(100%/2);
-    height: 200px;
-    font-size: 15px;
-    box-sizing: border-box;
-    float:right
-}*/
-
+nav > ul > li{
+    margin:0;
+    padding:0;
+list-style:none;
+}
+*/
 
 /*about_us_page*/
 
