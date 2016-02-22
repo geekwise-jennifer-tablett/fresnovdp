@@ -275,13 +275,13 @@ nav > ul > li{
     
 }
 .sponsers{margin:0 auto;
-  padding:0px;
+  padding:2px;
+    border:5px;
   display:block;
-  
 }
 #sponser_table{
     margin:0 auto;
-    padding:0;
+    padding:6px;
     height:110px; 
     width:90px;
     float:left;
@@ -289,58 +289,60 @@ nav > ul > li{
 
 #sponser_credit{ 
     margin:0 auto;
-    padding:0;
-    height:100px; 
-    width:200px;
+    padding:15px;
+  height:50px; 
+    width:100px;
     float:left;
     
 }
 
 #sponser_carwash{
     margin:0 auto;
-    padding:0;
-    height:80px; 
-    width:80px;
+    padding:15px;
+    height:60px; 
+    width:60px;
     float:left;
     
 }
 
 #sponser_pelco{
     margin:0 auto;
-    padding:0;
-    height:100px; 
-    width:200px;
+    padding:15px;
+    height:50px; 
+    width:100px;
     float:left;
 }
 
 #sponser_insurence{
     margin:0 auto;
-    padding:0;
-    height:100px;
-    width:200px;
+    padding:15px;
+    height:50px;
+    width:100px;
     float:left;
 }
 #sponser_eyeq{
     margin:0 auto;
-    padding:0;
+    padding:15px;
+   height:50px; 
+    width:100px;
     float:left;
     
 }
 
 #sponser_pge{
     margin:0 auto;
-    padding:0;
-    height:80px;
-    width:80px;
+    padding:15px;
+    height:60px;
+    width:60px;
     float:left;
     
 }
 
 #sponser_fresno{
     margin:0 auto;
-    padding:0;
-     height:80px;
-    width:80px;
+    padding:15px;
+     height:60px;
+    width:60px;
    float:right;
 }
 
