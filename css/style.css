@@ -204,14 +204,10 @@ footer{height:8rem;
 
 /*press_release*/
 
-#main_pressrelease{
-   margin:0 auto;
+main{margin:0 auto;
     padding:0;
-    border:0;
-    width:100%;
-    font-size:10px;
-    box-sizing: border-box; 
-}
+    width:90%;
+    background-color:#ffffff;
 
 
 #sec_ash{
@@ -232,15 +228,21 @@ h1{
 
 #img_ash{		
  margin:20px;		
- padding:10px;	   border:solid color:#555555; 	   width:250px;		
- height:200;		  font-size: 20px; box-sizing: border-box;		     
-float:left;		  background-color:#686964;		
+ padding:10px;	   
+ border:solid color:#555555; 	   width:250px;		
+ height:200;		  
+ font-size: 20px; 
+ box-sizing: border-box;		     
+ float:left;		  
+ background-color:#686964;		
 }
 
 #p_ash{width:60rem;
+    height:1rem;
     display: block;
     float:right;
-    font-size: 2;padding:20px;
+    font-size: 2;
+    padding:5px;
 }
 
 /*about_us_page*/
